@@ -21,5 +21,7 @@ public class TiposPrimitivos {
 
         double idadeDouble = 25.7;
         System.out.println("A idade do " + nome + " é " + idadeDouble + " anos");
+
+        float salario = 400.57F; // para representar dado do tipo float é essencial inserir o F no final
     }
 }
